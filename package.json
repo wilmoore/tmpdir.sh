@@ -1,0 +1,22 @@
+{
+  "name": "tmpdir.sh",
+  "version": "0.0.0",
+  "description": "Portable $TMPDIR for your shell.",
+  "author": "Wil Moore III <wil.moore@wilmoore.com> (http://wilmoore.com)",
+  "main": "./index",
+  "scripts": {
+    "test": "echo 123 > `. index`/hacker.pid && file `. index`/hacker.pid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wilmoore/tmpdir.sh.git"
+  },
+  "keywords": [
+    "temp",
+    "tmp",
+    "tmpdir",
+    "tempdir",
+    "tmp"
+  ],
+  "license": "MIT"
+}
