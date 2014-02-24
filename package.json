@@ -5,7 +5,7 @@
   "author": "Wil Moore III <wil.moore@wilmoore.com> (http://wilmoore.com)",
   "main": "./index",
   "scripts": {
-    "test": "echo 123 > `. index`/hacker.pid && file `. index`/hacker.pid"
+    "test": "echo 123 > $(. ./index)/hacker.pid && file $(. ./index)/hacker.pid"
   },
   "repository": {
     "type": "git",
