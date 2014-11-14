@@ -1,6 +1,6 @@
 # tmpdir.sh
 
-[![Build Status](http://img.shields.io/travis/wilmoore/tmpdir.sh.svg)](https://travis-ci.org/wilmoore/tmpdir.sh) [![NPM version](http://img.shields.io/npm/v/greater-than.svg)](https://www.npmjs.org/package/greater-than) [![NPM downloads](http://img.shields.io/npm/dm/greater-than.svg)](https://www.npmjs.org/package/greater-than) [![LICENSE](http://img.shields.io/npm/l/greater-than.svg)](license)
+[![Build Status](http://img.shields.io/travis/wilmoore/tmpdir.sh.svg)](https://travis-ci.org/wilmoore/tmpdir.sh) [![NPM version](http://img.shields.io/npm/v/tmpdir.sh.svg)](https://www.npmjs.org/package/tmpdir.sh) [![NPM downloads](http://img.shields.io/npm/dm/tmpdir.sh.svg)](https://www.npmjs.org/package/tmpdir.sh) [![LICENSE](http://img.shields.io/npm/l/tmpdir.sh.svg)](license)
 
 > Portable `$TMPDIR` for your shell.
 
